@@ -41,7 +41,7 @@ async function fetchData(urlApi) {
                     <img class="w-10 h-10 rounded-full mr-4" src="https://scontent.ftru2-1.fna.fbcdn.net/v/t1.6435-9/83655584_2579191902116563_201275679457673216_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=5fKJcQX-W0QAX-6Q-Wa&_nc_ht=scontent.ftru2-1.fna&oh=00_AfAQ1IN0_J1YgzIKrslP9xzsLWdaNie8p07Yih1MZIIK6w&oe=651B6A23">
                     <div class="text-sm">
                         <p class="text-gray-900 leading-none">Alex Rodriguez</p>
-                        <p class="text-gray-600">${video.username}</p>
+                        <p class="text-gray-600">@${video.username}</p>
                     </div>
                 </div>
             </div>
