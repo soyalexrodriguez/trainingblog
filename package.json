@@ -1,0 +1,17 @@
+{
+  "name": "trainingblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Alex Rodriguez",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
